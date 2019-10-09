@@ -228,7 +228,8 @@
 
   <script src="/Blog/js/local-search.js" ></script>
   <script>
-    var path = "/local-search.xml";
+    var path = "/Blog/local-search.xml";
+    console.log(path)
     var inputArea = document.querySelector("#local-search-input");
     inputArea.onclick = function () {
       getSearchFile(path);
