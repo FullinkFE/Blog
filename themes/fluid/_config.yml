@@ -62,7 +62,7 @@ navbar:
 
 search: # 搜索栏
   enable: true
-  path: /Blog/local-search.xml
+  path: /local-search.xml
   field: post
   content: true
 
