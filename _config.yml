@@ -80,4 +80,4 @@ theme: fluid
 deploy:
   type: git
   repo: https://github.com/FullinkFE/Blog.git
-  branch: master
+  branch: gh-pages
